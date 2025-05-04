@@ -1,1 +1,2 @@
 Inventory data
+New item details
